@@ -2,7 +2,13 @@
     Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Mahmoud
 </h1>
 
- ####   +2 Years experience in flutter and dart. Currently, I am working in [Code Parser](https://codeparser.org/) as a Flutter developer, Please contact me if you think I can help You , Thanks.
+####   +2 Years experience in flutter and dart. Currently, I am working at [Code Parser](https://codeparser.org/) as a Flutter developer, You can contact me with below ways.
+ 
+<p align="center">
+<a href="https://www.linkedin.com/in/mahmoud-eslami/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.me/+989115197795"><img src="https://img.shields.io/badge/-WhatsApp-04a777?style=flat&logo=Whatsapp&logoColor=white"/></a>
+<a href="https://t.me/es_mahmoud"><img src="https://img.shields.io/badge/-Telegram-4086b4?style=flat&logo=telegram&logoColor=white"/></a>
+</p>
 
 
 ---
@@ -12,20 +18,19 @@
 ![Firebase](https://img.shields.io/static/v1?logo=firebase&label=&message=Firebase&color=ffbe0b&logoWidth=20&logoColor=000000&style=flat-square)
 ![Trello](https://img.shields.io/static/v1?logo=Trello&label=&message=Trello&color=3f37c9&logoWidth=20&logoColor=EEE&style=flat-square)
 ![As](https://img.shields.io/static/v1?logo=android&label=&message=AndroidStudio&color=40916c&logoWidth=20&logoColor=EEE&style=flat-square)
-
-![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=000000&logoWidth=20&logoColor=EEE&style=flat-square)
+![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=800020&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Gitlab](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=000000&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Github](https://img.shields.io/static/v1?logo=gitlab&label=&message=Gitlab&color=000000&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Bitbucket](https://img.shields.io/static/v1?logo=bitbucket&label=&message=Bitbucket&color=caf0f8&logoWidth=20&logoColor=000000&style=flat-square)
 
 ### Flutter Skills :
-![BLoC](https://img.shields.io/static/v1?label=&message=BLoC&color=b7c3f3&logoWidth=20&logoColor=EEE&style=flat-square)
-![Provider](https://img.shields.io/static/v1?label=&message=Provider&color=b7c3f3&logoWidth=20&logoColor=EEE&style=flat-square)
-![Get-x](https://img.shields.io/static/v1?label=&message=Get-X&color=b7c3f3&logoWidth=20&logoColor=EEE&style=flat-square)
-![http](https://img.shields.io/static/v1?label=&message=Http&color=b7c3f3&logoWidth=20&logoColor=EEE&style=flat-square)
-![dio](https://img.shields.io/static/v1?label=&message=Dio&color=b7c3f3&logoWidth=20&logoColor=EEE&style=flat-square)
-![get-it](https://img.shields.io/static/v1?label=&message=Get-it&color=b7c3f3&logoWidth=20&logoColor=EEE&style=flat-square)
-![Animations](https://img.shields.io/static/v1?label=&message=Animations&color=b7c3f3&logoWidth=20&logoColor=EEE&style=flat-square)
+![BLoC](https://img.shields.io/static/v1?label=&message=BLoC&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
+![Provider](https://img.shields.io/static/v1?label=&message=Provider&color=1a5e63&logoWidth=20&logoColor=EEE&style=flat-square)
+![Get-x](https://img.shields.io/static/v1?label=&message=Get-X&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
+![http](https://img.shields.io/static/v1?label=&message=Http&color=1a5e63&logoWidth=20&logoColor=EEE&style=flat-square)
+![dio](https://img.shields.io/static/v1?label=&message=Dio&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
+![get-it](https://img.shields.io/static/v1?label=&message=Get-it&color=1a5e63&logoWidth=20&logoColor=EEE&style=flat-square)
+![Animations](https://img.shields.io/static/v1?label=&message=Animations&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
 
 
 ### Familiar with :
