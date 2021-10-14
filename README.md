@@ -19,9 +19,7 @@
 ![Trello](https://img.shields.io/static/v1?logo=Trello&label=&message=Trello&color=3f37c9&logoWidth=20&logoColor=EEE&style=flat-square)
 ![As](https://img.shields.io/static/v1?logo=android&label=&message=AndroidStudio&color=40916c&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=800020&logoWidth=20&logoColor=EEE&style=flat-square)
-![Gitlab](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=000000&logoWidth=20&logoColor=EEE&style=flat-square)
-![Github](https://img.shields.io/static/v1?logo=gitlab&label=&message=Gitlab&color=000000&logoWidth=20&logoColor=EEE&style=flat-square)
-![Bitbucket](https://img.shields.io/static/v1?logo=bitbucket&label=&message=Bitbucket&color=caf0f8&logoWidth=20&logoColor=000000&style=flat-square)
+
 
 ### Flutter Skills :
 ![BLoC](https://img.shields.io/static/v1?label=&message=BLoC&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
