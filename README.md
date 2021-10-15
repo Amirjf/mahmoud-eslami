@@ -31,7 +31,7 @@
 ![Animations](https://img.shields.io/static/v1?label=&message=Animations&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
 
 
-### Familiar with :
+### Familiar with Languages & Tools :
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=eb5e28&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Django](https://img.shields.io/static/v1?logo=django&label=&message=Django&color=004b23&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=ff6b6b&logoWidth=20&logoColor=EEE&style=flat-square)
