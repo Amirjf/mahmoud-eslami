@@ -8,17 +8,18 @@
 <a href="https://www.linkedin.com/in/mahmoud-eslami/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.me/+989115197795"><img src="https://img.shields.io/badge/-WhatsApp-04a777?style=flat&logo=Whatsapp&logoColor=white"/></a>
 <a href="https://t.me/es_mahmoud"><img src="https://img.shields.io/badge/-Telegram-4086b4?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://github.com/mahmoud-eslami"><img src="https://komarev.com/ghpvc/?username=mahmoud-eslami&color=dc143c"/></a>
 </p>
 
 
 ---
-### Skills :
+### Skills & Tools :
 ![Dart](https://img.shields.io/static/v1?logo=dart&label=&message=Dart&color=023e8a&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Flutter](https://img.shields.io/static/v1?logo=flutter&label=&message=Flutter&color=0096c7&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Firebase](https://img.shields.io/static/v1?logo=firebase&label=&message=Firebase&color=ffbe0b&logoWidth=20&logoColor=000000&style=flat-square)
-![Trello](https://img.shields.io/static/v1?logo=Trello&label=&message=Trello&color=3f37c9&logoWidth=20&logoColor=EEE&style=flat-square)
 ![As](https://img.shields.io/static/v1?logo=android&label=&message=AndroidStudio&color=40916c&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=800020&logoWidth=20&logoColor=EEE&style=flat-square)
+![Trello](https://img.shields.io/static/v1?logo=Trello&label=&message=Trello&color=3f37c9&logoWidth=20&logoColor=EEE&style=flat-square)
 
 
 ### Flutter Skills :
@@ -36,6 +37,9 @@
 ![Django](https://img.shields.io/static/v1?logo=django&label=&message=Django&color=004b23&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=ff6b6b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Xd](https://img.shields.io/static/v1?logo=adobexd&label=&message=AdobeXD&color=973aa8&logoWidth=20&logoColor=EEE&style=flat-square)
+
+
+
 
 <!-- ![Fm](https://img.shields.io/static/v1?label=&message=FamiliarWith&color=ffd60a&logoWidth=20&logoColor=EEE&style=flat-square) -->
 <!-- ![Skills](https://img.shields.io/static/v1?label=&message=Skills&color=ffd60a&logoWidth=20&logoColor=EEE&style=flat-square) -->
