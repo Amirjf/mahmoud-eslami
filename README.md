@@ -38,9 +38,6 @@
 ![Xd](https://img.shields.io/static/v1?logo=adobexd&label=&message=AdobeXD&color=973aa8&logoWidth=20&logoColor=EEE&style=flat-square)
 
 
-<p align="right">
-<a href="https://github.com/mahmoud-eslami"><img src="https://komarev.com/ghpvc/?username=mahmoud-eslami&color=dc143c"/></a>
-</p>
 
 <!-- ![Fm](https://img.shields.io/static/v1?label=&message=FamiliarWith&color=ffd60a&logoWidth=20&logoColor=EEE&style=flat-square) -->
 <!-- ![Skills](https://img.shields.io/static/v1?label=&message=Skills&color=ffd60a&logoWidth=20&logoColor=EEE&style=flat-square) -->
