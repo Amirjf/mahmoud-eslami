@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=800020&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Trello](https://img.shields.io/static/v1?logo=Trello&label=&message=Trello&color=3f37c9&logoWidth=20&logoColor=EEE&style=flat-square)
 
-
+<!-- 
 ### Flutter Skills :
 ![BLoC](https://img.shields.io/static/v1?label=&message=BLoC&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Provider](https://img.shields.io/static/v1?label=&message=Provider&color=1a5e63&logoWidth=20&logoColor=EEE&style=flat-square)
@@ -30,11 +30,12 @@
 ![dio](https://img.shields.io/static/v1?label=&message=Dio&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
 ![get-it](https://img.shields.io/static/v1?label=&message=Get-it&color=1a5e63&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Animations](https://img.shields.io/static/v1?label=&message=Animations&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
-
+ -->
 
 ### Familiar with Languages & Tools :
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=eb5e28&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Django](https://img.shields.io/static/v1?logo=django&label=&message=Django&color=004b23&logoWidth=20&logoColor=EEE&style=flat-square)
+![FastApi](https://img.shields.io/static/v1?logo=fastApi&label=&message=FastApi&color=2a9d8f&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=ff6b6b&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Xd](https://img.shields.io/static/v1?logo=adobexd&label=&message=AdobeXD&color=973aa8&logoWidth=20&logoColor=EEE&style=flat-square)
 
