@@ -2,7 +2,7 @@
     Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Mahmoud
 </h1>
 
-####   +2 Years experience in flutter and dart. Currently, I am working at [Code Parser](https://codeparser.org/) as a Flutter developer, You can contact me with below ways.
+####   +2 Years experience in flutter and dart. Currently, You can contact me with below ways.
  
 <p align="center">
 <a href="https://www.linkedin.com/in/mahmoud-eslami/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
