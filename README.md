@@ -35,7 +35,7 @@
 ![get-it](https://img.shields.io/static/v1?label=&message=Get-it&color=1a5e63&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Animations](https://img.shields.io/static/v1?label=&message=Animations&color=59a36a&logoWidth=20&logoColor=EEE&style=flat-square)
  -->
-
+<!-- 
 ### Familiar with Languages & Tools :
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=eb5e28&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Django](https://img.shields.io/static/v1?logo=django&label=&message=Django&color=004b23&logoWidth=20&logoColor=EEE&style=flat-square)
@@ -44,7 +44,7 @@
 ![Xd](https://img.shields.io/static/v1?logo=adobexd&label=&message=AdobeXD&color=973aa8&logoWidth=20&logoColor=EEE&style=flat-square)
 
 
-
+ -->
 <!-- ![Fm](https://img.shields.io/static/v1?label=&message=FamiliarWith&color=ffd60a&logoWidth=20&logoColor=EEE&style=flat-square) -->
 <!-- ![Skills](https://img.shields.io/static/v1?label=&message=Skills&color=ffd60a&logoWidth=20&logoColor=EEE&style=flat-square) -->
 <!-- ![Design](https://img.shields.io/static/v1?label=&message=DesignPlatform&color=ffd60a&logoWidth=20&logoColor=EEE&style=flat-square) -->
