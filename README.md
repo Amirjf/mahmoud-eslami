@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Mahmoud
+    Hi there 👋🏻 , I'm Mahmoud
 </h1>
 
 <h3 align="center">
@@ -9,21 +9,21 @@
 <!-- ####   +2 Years experience in flutter and dart. Currently, You can contact me with below ways. -->
  
 <p align="center">
-<a href="https://www.linkedin.com/in/mahmoud-eslami/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+989115197795"><img src="https://img.shields.io/badge/-WhatsApp-04a777?style=flat&logo=Whatsapp&logoColor=white"/></a>
-<a href="https://t.me/es_mahmoud"><img src="https://img.shields.io/badge/-Telegram-4086b4?style=flat&logo=telegram&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/12496048/mahmoud-eslami"><img src="https://img.shields.io/badge/-Stackoverflow-fe5a1d?style=flat&logo=stackoverflow&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/mahmoud-eslami/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/+989115197795"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://t.me/es_mahmoud"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/12496048/mahmoud-eslami"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
 
 ---
 ### Skills & Tools :
-![Dart](https://img.shields.io/static/v1?logo=dart&label=&message=Dart&color=023e8a&logoWidth=20&logoColor=EEE&style=flat-square)
-![Flutter](https://img.shields.io/static/v1?logo=flutter&label=&message=Flutter&color=0096c7&logoWidth=20&logoColor=EEE&style=flat-square)
-![Firebase](https://img.shields.io/static/v1?logo=firebase&label=&message=Firebase&color=ffbe0b&logoWidth=20&logoColor=000000&style=flat-square)
-![As](https://img.shields.io/static/v1?logo=android&label=&message=AndroidStudio&color=40916c&logoWidth=20&logoColor=EEE&style=flat-square)
-![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=800020&logoWidth=20&logoColor=EEE&style=flat-square)
-![Trello](https://img.shields.io/static/v1?logo=Trello&label=&message=Trello&color=3f37c9&logoWidth=20&logoColor=EEE&style=flat-square)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <!-- 
 ### Flutter Skills :
