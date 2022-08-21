@@ -2,6 +2,10 @@
     Hi there 👋🏻 , I'm Mahmoud
 </h1>
 
+<p align="center">
+    <img src="https://media.giphy.com/media/xI3GDRygHrwH4QU5tQ/giphy.gif" width="550" height="300" />
+</p>
+
 <h6 align="center">
      +2 Years experience in flutter and dart. You can contact me with below ways.
 </h6>
