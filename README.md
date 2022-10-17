@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-     +2 Years experience in flutter and dart. You can contact me with below ways.
+     +2 Years experience in flutter and dart. You can contact me with the links below.
 </h6>
  
 <p align="center">
